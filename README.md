@@ -44,3 +44,5 @@ javascript debugging
 
 // TODO: When characters/values are selected as true
 // Then an alert is displayed that the password has been generated
+
+https://pcchase617.github.io/homework3/
